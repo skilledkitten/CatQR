@@ -13,7 +13,7 @@ CatQR is a minimal yet powerful QR code generator written in Python. Built witho
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/catqr.git
+git clone https://github.com/skilledkitten/catqr.git
 cd catqr
 ```
 
